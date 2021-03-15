@@ -1,3 +1,4 @@
 Name:Georgio
 Color:yellow
 Major:COE
+Uni:LAU
